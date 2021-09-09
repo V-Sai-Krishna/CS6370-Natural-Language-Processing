@@ -27,7 +27,7 @@ The files and folders present are:
 17) BM.py: Creates a Search Engine that uses the okapibm25.py to create index and uses Okapi BM25 scoring metric to rank documents.
 
 
-******************************************************** The scripts that you will run ******************************************************************
+****************************************************** The scripts that you will run **********************************************************
 
 18) main1.py: To replicate the experiments shown on section 6.1 of the report run this file. Output graph can be found in the outputs folder named 
               "Experiment 1.png". The Precision, Recall, etc values for each IR system used in this expt can be found in the folder "expt1csvfolder".
