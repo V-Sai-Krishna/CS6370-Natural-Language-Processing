@@ -1,4 +1,4 @@
-EE17B035-EE17B047: NLP Final Project README File
+# EE17B035-EE17B047: NLP Final Project README File
 
 This folder contains the files used for the Project, involving building a search engine application. Note that this code works for Python 3 only. 
 
